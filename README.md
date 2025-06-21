@@ -1,0 +1,2 @@
+# FracSH
+Fractal renderer
