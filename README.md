@@ -3,6 +3,8 @@
 FracSH is a fast, rabbit hole of a fractal explorer. 
 It has built in Mandelbrot, Julia, Multibrot, Burning Ship, custom formulas, colored ASCII (or unicode.), BMP export (implemented by me!), and more—all in Python!
 
+Check out demo here! [Youtube](https://www.youtube.com/watch?v=HYnZ1dxgVe8)
+
 ## Features
 
 - Real-time terminal fractal rendering (Mandelbrot, Julia, Multibrot, Burning Ship, ...)
