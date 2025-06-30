@@ -78,6 +78,10 @@ Check out demo here! [Youtube](https://www.youtube.com/watch?v=HYnZ1dxgVe8)
 
 MIT License
 
+Portions of this code were adapted from Stack Overflow posts and Wikipedia pseudocode.
+
+See LICENSE for details.
+
 ---
 
 Time spent: 5 hours programming, 7+5 hours researching.
@@ -86,3 +90,4 @@ Time spent: 5 hours programming, 7+5 hours researching.
 - [Wikipedia](https://en.wikipedia.org/wiki/Mandelbrot_set)
 - Very inspired and motivated by [Golova.dev](https://golova.dev/experiments/fractalSounds)
 - Made for TerminalCraft as LemonGravy
+- [Blessed](https://pypi.org/project/blessed/) library, without it, the project would be bad due to none of the other frameworks fitting my bill.
